@@ -6,7 +6,7 @@ Eye Tracker is a simple application where a set of eyes follow the cursor moveme
 ## How to Run
 To run this application on your machine, follow these steps:
 
-1. Clone the repository: git clone <repository-url>
+1. Clone the repository: git clone [<repository-url>](https://github.com/PatMcCue/eyes/tree/main)
 2. Open the eyes.html file in a web browser.
 3. Change the colors of the eyes or watch them track the cursor around the screen!
 
